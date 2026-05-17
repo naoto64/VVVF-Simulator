@@ -1,0 +1,728 @@
+{
+  "ユーザー: カスタム": {
+    "power": [
+      {
+        "vmax": 35.0,
+        "kind": "ASYNC",
+        "value": 1050.0,
+        "name": "起動 非同期",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 60.0,
+        "kind": "SYNC",
+        "value": 9.0,
+        "name": "同期9",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 80.0,
+        "kind": "WIDE3",
+        "value": 3.0,
+        "name": "広域3パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 999.0,
+        "kind": "ONEPULSE",
+        "value": 1.0,
+        "name": "1パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      }
+    ],
+    "brake": [
+      {
+        "vmax": 35.0,
+        "kind": "ASYNC",
+        "value": 1050.0,
+        "name": "起動 非同期",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 60.0,
+        "kind": "SYNC",
+        "value": 9.0,
+        "name": "同期9",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 80.0,
+        "kind": "WIDE3",
+        "value": 3.0,
+        "name": "広域3パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 999.0,
+        "kind": "ONEPULSE",
+        "value": 1.0,
+        "name": "1パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      }
+    ]
+  },
+  "ユーザー: シーメンスGTO": [
+    {
+      "vmax": 3.0,
+      "kind": "ASYNC",
+      "value": 175.0,
+      "name": "起動 非同期",
+      "hf_mode": "OFF",
+      "hf_amount": 0.0,
+      "spread_mode": "OFF",
+      "spread_amount": 0.0
+    },
+    {
+      "vmax": 5.0,
+      "kind": "ASYNC",
+      "value": 196.0,
+      "name": "起動 非同期",
+      "hf_mode": "OFF",
+      "hf_amount": 0.0,
+      "spread_mode": "OFF",
+      "spread_amount": 0.0
+    },
+    {
+      "vmax": 7.0,
+      "kind": "ASYNC",
+      "value": 223.0,
+      "name": "起動 非同期",
+      "hf_mode": "OFF",
+      "hf_amount": 0.0,
+      "spread_mode": "OFF",
+      "spread_amount": 0.0
+    },
+    {
+      "vmax": 9.0,
+      "kind": "ASYNC",
+      "value": 233.0,
+      "name": "起動 非同期",
+      "hf_mode": "OFF",
+      "hf_amount": 0.0,
+      "spread_mode": "OFF",
+      "spread_amount": 0.0
+    },
+    {
+      "vmax": 11.0,
+      "kind": "ASYNC",
+      "value": 262.0,
+      "name": "起動 非同期",
+      "hf_mode": "OFF",
+      "hf_amount": 0.0,
+      "spread_mode": "OFF",
+      "spread_amount": 0.0
+    },
+    {
+      "vmax": 13.0,
+      "kind": "ASYNC",
+      "value": 294.0,
+      "name": "起動 非同期",
+      "hf_mode": "OFF",
+      "hf_amount": 0.0,
+      "spread_mode": "OFF",
+      "spread_amount": 0.0
+    },
+    {
+      "vmax": 15.0,
+      "kind": "ASYNC",
+      "value": 311.0,
+      "name": "起動 非同期",
+      "hf_mode": "OFF",
+      "hf_amount": 0.0,
+      "spread_mode": "OFF",
+      "spread_amount": 0.0
+    },
+    {
+      "vmax": 17.0,
+      "kind": "ASYNC",
+      "value": 350.0,
+      "name": "起動 非同期",
+      "hf_mode": "OFF",
+      "hf_amount": 0.0,
+      "spread_mode": "OFF",
+      "spread_amount": 0.0
+    },
+    {
+      "vmax": 35.0,
+      "kind": "ASYNC",
+      "value": 400.0,
+      "name": "起動 非同期",
+      "hf_mode": "OFF",
+      "hf_amount": 0.0,
+      "spread_mode": "OFF",
+      "spread_amount": 0.0
+    },
+    {
+      "vmax": 45.0,
+      "kind": "SYNC",
+      "value": 18.0,
+      "name": "同期9",
+      "hf_mode": "OFF",
+      "hf_amount": 0.0,
+      "spread_mode": "OFF",
+      "spread_amount": 0.0
+    },
+    {
+      "vmax": 55.0,
+      "kind": "SYNC",
+      "value": 15.0,
+      "name": "同期9",
+      "hf_mode": "OFF",
+      "hf_amount": 0.0,
+      "spread_mode": "OFF",
+      "spread_amount": 0.0
+    },
+    {
+      "vmax": 65.0,
+      "kind": "SYNC",
+      "value": 12.0,
+      "name": "同期9",
+      "hf_mode": "OFF",
+      "hf_amount": 0.0,
+      "spread_mode": "OFF",
+      "spread_amount": 0.0
+    },
+    {
+      "vmax": 75.0,
+      "kind": "SYNC",
+      "value": 9.0,
+      "name": "同期9",
+      "hf_mode": "OFF",
+      "hf_amount": 0.0,
+      "spread_mode": "OFF",
+      "spread_amount": 0.0
+    },
+    {
+      "vmax": 80.0,
+      "kind": "SYNC",
+      "value": 5.0,
+      "name": "同期9",
+      "hf_mode": "OFF",
+      "hf_amount": 0.0,
+      "spread_mode": "OFF",
+      "spread_amount": 0.0
+    },
+    {
+      "vmax": 85.0,
+      "kind": "SYNC",
+      "value": 7.0,
+      "name": "同期9",
+      "hf_mode": "OFF",
+      "hf_amount": 0.0,
+      "spread_mode": "OFF",
+      "spread_amount": 0.0
+    },
+    {
+      "vmax": 90.0,
+      "kind": "WIDE3",
+      "value": 3.0,
+      "name": "広域3パルス",
+      "hf_mode": "OFF",
+      "hf_amount": 0.0,
+      "spread_mode": "OFF",
+      "spread_amount": 0.0
+    },
+    {
+      "vmax": 999.0,
+      "kind": "ONEPULSE",
+      "value": 1.0,
+      "name": "1パルス",
+      "hf_mode": "OFF",
+      "hf_amount": 0.0,
+      "spread_mode": "OFF",
+      "spread_amount": 0.0
+    }
+  ],
+  "ユーザー: 東洋IGBT": {
+    "power": [
+      {
+        "vmax": 25.0,
+        "kind": "ASYNC",
+        "value": 1050.0,
+        "name": "起動 非同期",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "hf_freq": 2000.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": 3.5
+      },
+      {
+        "vmax": 60.0,
+        "kind": "SYNC",
+        "value": 9.0,
+        "name": "同期9",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "hf_freq": null,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": null
+      },
+      {
+        "vmax": 80.0,
+        "kind": "WIDE3",
+        "value": 3.0,
+        "name": "広域3パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "hf_freq": null,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": null
+      },
+      {
+        "vmax": 999.0,
+        "kind": "ONEPULSE",
+        "value": 1.0,
+        "name": "1パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "hf_freq": null,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": null
+      }
+    ],
+    "brake": [
+      {
+        "vmax": 25.0,
+        "kind": "ASYNC",
+        "value": 1050.0,
+        "name": "起動 非同期",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "hf_freq": 2000.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": 3.5
+      },
+      {
+        "vmax": 60.0,
+        "kind": "SYNC",
+        "value": 9.0,
+        "name": "同期9",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "hf_freq": null,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": null
+      },
+      {
+        "vmax": 80.0,
+        "kind": "WIDE3",
+        "value": 3.0,
+        "name": "広域3パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "hf_freq": null,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": null
+      },
+      {
+        "vmax": 999.0,
+        "kind": "ONEPULSE",
+        "value": 1.0,
+        "name": "1パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "hf_freq": null,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": null
+      }
+    ]
+  },
+  "ユーザー: カスタム2": {
+    "power": [
+      {
+        "vmax": 35.0,
+        "kind": "ASYNC",
+        "value": 1050.0,
+        "name": "起動 非同期",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 50.0,
+        "kind": "SHE",
+        "value": 7.0,
+        "name": "同期9",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 60.0,
+        "kind": "SYNC",
+        "value": 9.0,
+        "name": "同期9",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 80.0,
+        "kind": "WIDE3",
+        "value": 3.0,
+        "name": "広域3パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 999.0,
+        "kind": "ONEPULSE",
+        "value": 1.0,
+        "name": "1パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      }
+    ],
+    "brake": [
+      {
+        "vmax": 35.0,
+        "kind": "ASYNC",
+        "value": 1050.0,
+        "name": "起動 非同期",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 50.0,
+        "kind": "SHE",
+        "value": 7.0,
+        "name": "同期9",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 60.0,
+        "kind": "SYNC",
+        "value": 9.0,
+        "name": "同期9",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 80.0,
+        "kind": "WIDE3",
+        "value": 3.0,
+        "name": "広域3パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 999.0,
+        "kind": "ONEPULSE",
+        "value": 1.0,
+        "name": "1パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      }
+    ]
+  },
+  "ユーザー: 墜落インバータ": {
+    "power": [
+      {
+        "vmax": 10.0,
+        "kind": "ASYNC",
+        "value": 1050.0,
+        "name": "起動 非同期",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 25.0,
+        "kind": "ASYNC",
+        "value": 1050.0,
+        "name": "起動 非同期",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "value_end": 750.0,
+        "value_text": "1050-750"
+      },
+      {
+        "vmax": 35.0,
+        "kind": "ASYNC",
+        "value": 750.0,
+        "name": "起動 非同期",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "value_end": 1700.0,
+        "value_text": "750-1700"
+      },
+      {
+        "vmax": 60.0,
+        "kind": "SYNC",
+        "value": 9.0,
+        "name": "同期9",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 80.0,
+        "kind": "WIDE3",
+        "value": 3.0,
+        "name": "広域3パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 999.0,
+        "kind": "ONEPULSE",
+        "value": 1.0,
+        "name": "1パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      }
+    ],
+    "brake": [
+      {
+        "vmax": 10.0,
+        "kind": "ASYNC",
+        "value": 1050.0,
+        "name": "起動 非同期",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 25.0,
+        "kind": "ASYNC",
+        "value": 1050.0,
+        "name": "起動 非同期",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "value_end": 750.0,
+        "value_text": "1050-750"
+      },
+      {
+        "vmax": 35.0,
+        "kind": "ASYNC",
+        "value": 750.0,
+        "name": "起動 非同期",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "value_end": 1700.0,
+        "value_text": "750-1700"
+      },
+      {
+        "vmax": 60.0,
+        "kind": "SYNC",
+        "value": 9.0,
+        "name": "同期9",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 80.0,
+        "kind": "WIDE3",
+        "value": 3.0,
+        "name": "広域3パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      },
+      {
+        "vmax": 999.0,
+        "kind": "ONEPULSE",
+        "value": 1.0,
+        "name": "1パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0
+      }
+    ]
+  },
+  "ユーザー: 東芝PMSM": {
+    "power": [
+      {
+        "vmax": 3.0,
+        "kind": "ASYNC",
+        "value": 750.0,
+        "name": "起動 非同期",
+        "hf_mode": "CARRIER",
+        "hf_amount": 25.0,
+        "hf_freq": 187.5,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": 3.5
+      },
+      {
+        "vmax": 35.0,
+        "kind": "ASYNC",
+        "value": 750.0,
+        "name": "起動 非同期",
+        "hf_mode": "OFF",
+        "hf_amount": 25.0,
+        "hf_freq": 187.5,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": 3.5
+      },
+      {
+        "vmax": 60.0,
+        "kind": "SYNC",
+        "value": 9.0,
+        "name": "同期9",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "hf_freq": null,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": null
+      },
+      {
+        "vmax": 80.0,
+        "kind": "WIDE3",
+        "value": 3.0,
+        "name": "広域3パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "hf_freq": null,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": null
+      },
+      {
+        "vmax": 999.0,
+        "kind": "ONEPULSE",
+        "value": 1.0,
+        "name": "1パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "hf_freq": null,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": null
+      }
+    ],
+    "brake": [
+      {
+        "vmax": 3.0,
+        "kind": "ASYNC",
+        "value": 750.0,
+        "name": "起動 非同期",
+        "hf_mode": "CARRIER",
+        "hf_amount": 25.0,
+        "hf_freq": 187.5,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": 3.5
+      },
+      {
+        "vmax": 35.0,
+        "kind": "ASYNC",
+        "value": 750.0,
+        "name": "起動 非同期",
+        "hf_mode": "OFF",
+        "hf_amount": 25.0,
+        "hf_freq": 187.5,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": 3.5
+      },
+      {
+        "vmax": 60.0,
+        "kind": "SYNC",
+        "value": 9.0,
+        "name": "同期9",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "hf_freq": null,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": null
+      },
+      {
+        "vmax": 80.0,
+        "kind": "WIDE3",
+        "value": 3.0,
+        "name": "広域3パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "hf_freq": null,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": null
+      },
+      {
+        "vmax": 999.0,
+        "kind": "ONEPULSE",
+        "value": 1.0,
+        "name": "1パルス",
+        "hf_mode": "OFF",
+        "hf_amount": 0.0,
+        "hf_freq": null,
+        "spread_mode": "OFF",
+        "spread_amount": 0.0,
+        "spread_rate": null
+      }
+    ]
+  }
+}
